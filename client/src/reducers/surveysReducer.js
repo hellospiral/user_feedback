@@ -1,4 +1,4 @@
-import { FETCH_SURVYES } from '../actions/types';
+import { FETCH_SURVEYS } from '../actions/types';
 
 export default function(state = [], action) {
   switch (action.type) {
